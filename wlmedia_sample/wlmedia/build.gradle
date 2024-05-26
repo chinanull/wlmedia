@@ -31,7 +31,7 @@ afterEvaluate {
         publications {
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.github.wanliyang1990'
+                groupId = 'com.github.chinanull'
                 artifactId = 'wlmedia'
                 version = '3.0.0'
             }
